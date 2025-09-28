@@ -48,7 +48,7 @@ Mi trabajo se centra en el diseño de la lógica de negocio, la seguridad y la p
 >
 > **Tecnologías:** Node.js, Nest.js, TypeScript, PostgreSQL.  
 >
-> 🔗 [Ver Repositorio](https://github.com/RafaelAlvarezSM/studioconnect_back)  
+> 🔗 [Ver Repositorio](https://github.com/studioconnect2025/studioconnect_back)  
 > 🔗 [Ver Deploy](https://studioconnect-front.vercel.app/)  
 
 ---
