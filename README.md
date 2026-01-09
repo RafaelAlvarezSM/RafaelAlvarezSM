@@ -39,7 +39,18 @@ Busco mi primera oportunidad para aplicar mi disciplina, autonomía y experienci
 
 ## 🚀 Proyectos Destacados  
 
-Mi trabajo se centra en el diseño de la lógica de negocio, la seguridad y la persistencia de datos.  
+Mi trabajo se centra en el diseño de la lógica de negocio, la seguridad y la persistencia de datos.
+
+### 🐾 Adbize (App Mobile & Web)
+
+> Aplicación integral para el adiestramiento y hospedaje hotelero canino.  
+> Fui responsable del desarrollo de la interfaz de usuario basada en **Figma** y de la integración de **datos en tiempo real**.  
+>
+> **Particularidades:**
+> * Implementé pantallas críticas como la Residencia, el sistema de Chats y el Dashboard (Home) del Entrenador.
+> * Aseguré la fidelidad del diseño y la conexión directa con la base de datos para garantizar dinamismo.
+>
+> **Tecnologías:** TypeScript, Expo / React Native, Node.js, Express, PostgreSQL.  
 
 ### 🏆 StudioConnect (API RESTful)  
 
